@@ -1,5 +1,6 @@
+Score : 2
 # HTML Input 2 CW
-
+#### Partial : no submit button, no feild set for optional information, no terms checkbox
 Duplicate the form depicted in the included image. Note the following:
 
 * Use placeholders (hints) where shown
